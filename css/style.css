@@ -4,7 +4,8 @@ body{
 
 /* Pattern prima del titolo*/
 .pattern{
-    background-image;
+    height: 70px;
+    background-color: rgb(0, 119, 217);
 }
 
 /*Scritta piccolina sotto al titolo iniziale*/
@@ -26,4 +27,32 @@ body{
 /*Scritta evidenziata nel testo*/
 .evidenziatore{
     background-color: yellow;
+}
+
+/*Tabella*/
+.grassetto{
+    color: white;
+}
+
+.titolotabella{
+    background-color: rgb(0, 154, 206);
+}
+
+.riga1{
+    background-color: lightblue;
+}
+
+.firstc{
+    width: 15%;
+    display: inline-block;
+}
+
+.secondc{
+    width: 15%;
+    display: inline-block;
+}
+
+.thirdc{
+    width: 40%;
+    display: inline-block;
 }
