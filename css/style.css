@@ -1,0 +1,29 @@
+body{
+    
+}
+
+/* Pattern prima del titolo*/
+.pattern{
+    background-image;
+}
+
+/*Scritta piccolina sotto al titolo iniziale*/
+.Scritto{
+    font-size: small;
+    color: gray;
+}
+
+/*Link scritta piccola sotto al titolo iniziale*/
+.Booleaner{
+    font-size:small ;
+}
+
+/*Scritta piccola sotto le 2 foto iniziali*/
+.Scritta{
+    font-size: small;
+}
+
+/*Scritta evidenziata nel testo*/
+.evidenziatore{
+    background-color: yellow;
+}
