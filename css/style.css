@@ -14,6 +14,17 @@ header{
     width: 200px;
 }
 
+/*allineamento al centro*/
+main{
+    width: 70%;
+    margin: auto;
+}
+
+footer {
+    width: 70%;
+    margin: auto;
+}
+
 /*Scritta piccolina sotto al titolo iniziale*/
 .Scritto{
     font-size: small;
