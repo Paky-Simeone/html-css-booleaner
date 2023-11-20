@@ -2,11 +2,16 @@ body{
     
 }
 
-/* Pattern prima del titolo*/
+/* Pattern prima del titolo con logo */
 header{
-    background-image: url("./style.css/pattern.png");
-    background-repeat: repeat-x;
     background-color: rgb(0, 154, 206);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    background-size: 150px;
+}
+
+.logo-pagina{
+    width: 200px;
 }
 
 /*Scritta piccolina sotto al titolo iniziale*/
@@ -65,5 +70,14 @@ header{
 
 /*immagine background*/
 .imgb{
-    background-image: url("monitor.jpg");
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    width: 200px;
+}
+
+.imgb2{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
 }
