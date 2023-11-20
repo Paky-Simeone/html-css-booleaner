@@ -3,9 +3,10 @@ body{
 }
 
 /* Pattern prima del titolo*/
-.pattern{
-    height: 70px;
-    background-color: rgb(0, 119, 217);
+header{
+    background-image: url("./style.css/pattern.png");
+    background-repeat: repeat-x;
+    background-color: rgb(0, 154, 206);
 }
 
 /*Scritta piccolina sotto al titolo iniziale*/
@@ -55,4 +56,14 @@ body{
 .thirdc{
     width: 40%;
     display: inline-block;
+}
+
+/*Titolo footer*/
+.titolofinale{
+    color: gray;
+}
+
+/*immagine background*/
+.imgb{
+    background-image: url("monitor.jpg");
 }
